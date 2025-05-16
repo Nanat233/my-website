@@ -345,3 +345,23 @@ footer a {
         margin: 3px;
     }
 }
+/* Mobile Phone untuk Android kecil dan sedang*/
+@media (max-width: 480px) {
+    html {
+        font-size: 55%;
+    }
+    .simply-countdown>.simply-section{
+        padding: 45px;
+        margin: 3px;
+    }
+}
+/* Mobile Phone lebih ketat, untuk mayoritas HP Android*/
+@media (max-width: 414px) {
+    html {
+        font-size: 55%;
+    }
+    .simply-countdown>.simply-section{
+        padding: 45px;
+        margin: 3px;
+    }
+}
