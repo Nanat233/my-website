@@ -355,13 +355,13 @@ footer a {
         margin: 3px;
     }
 }
-/* Mobile Phone lebih ketat, untuk mayoritas HP Android*/
-@media (max-width: 414px) {
+/* Mobile Phone lebih lebih ketat, untuk mayoritas HP Android*/
+@media (max-width: 250px) {
     html {
-        font-size: 55%;
+        font-size: 20%;
     }
     .simply-countdown>.simply-section{
-        padding: 20px;
-        margin: 3px;
+        padding: 10px;
+        margin: 1px;
     }
 }
